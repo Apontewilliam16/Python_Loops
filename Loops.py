@@ -3,8 +3,8 @@
 #for num in nums:
     #if num == 3: 
         #print('Found!', + num)
-        #continue 
-        #break
+        #continue  Will contine to iterate
+        #break Will stop to iterate
     #print(num)
 
 # Nested loops 
